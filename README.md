@@ -1,4 +1,4 @@
-#Flutter Test
+# Flutter Test
 
 Olá devs, tudo bem? Vamos fazer um desafio aqui, e vou lhe dar algumas dicas. Preste bastante atenção.
 - Já vou ouviram falar do [SLIDY](https://github.com/Flutterando/slidy)?
@@ -20,7 +20,7 @@ Olá devs, tudo bem? Vamos fazer um desafio aqui, e vou lhe dar algumas dicas. P
  Então o João precisa de um sistema aonde ele insere a quantidade de calorias e consegue consultar todas as possíveis combinações de 3 alimentos de grupos diferentes que somados vão atingir a meta calórica.
 
 
-##DICAS
+## DICAS
 
  - A lista de alimentos está disponível no endpoint abaixo.
  https://dod-ps.herokuapp.com/alimentos
@@ -30,7 +30,7 @@ Olá devs, tudo bem? Vamos fazer um desafio aqui, e vou lhe dar algumas dicas. P
 - Seja criativo :)
 -  #boaspraticas
 
-##OBJETIVO
+## OBJETIVO
 
 Resolver o problema do João.
 
